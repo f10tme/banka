@@ -16,14 +16,22 @@ apt upgrade
 ```
 pkg install git
 pkg install python
-pkg install python2
-pkg install python3
 ```
 ```
 git clone https://github.com/arinweb/banka
 ```
 
 ```
+cd banka
+python banka.py
+```
+------------
+```
+apt update
+apt upgrade
+pkg install git
+pkg install python
+git clone https://github.com/arinweb/banka
 cd banka
 python banka.py
 ```
