@@ -26,7 +26,9 @@ git clone https://github.com/arinweb/banka
 cd banka
 python banka.py
 ```
-------------
+
+Direkt Kopyala
+
 ```
 apt update
 apt upgrade
