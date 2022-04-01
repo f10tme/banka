@@ -8,5 +8,3 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/arinweb) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/arin_web)
 
-![IMG_20220401_173619](https://user-images.githubusercontent.com/60838684/161289298-c9bd58e1-26bd-42dc-8474-02455b2477be.jpg)
-![IMG_20220401_173648](https://user-images.githubusercontent.com/60838684/161289303-c474d8de-8541-40a4-bbf0-b238b2649f61.jpg)
