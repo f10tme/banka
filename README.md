@@ -8,3 +8,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/arin_web)
 
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
+
+```
+apt update
+apt upgrade
+
+pkg install git
+pkg install python
+pkg install python2
+pkg install python3
+
+git clone https://github.com/arinweb/banka
+```
