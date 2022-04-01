@@ -22,3 +22,8 @@ pkg install python3
 ```
 git clone https://github.com/arinweb/banka
 ```
+
+```
+cd banka
+python banka.py
+```
