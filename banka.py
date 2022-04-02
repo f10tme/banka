@@ -1,4 +1,7 @@
-#Arin bankacılık hizmetleri
+# Web Sitem : https://arinweb.epizy.com
+# Instagram : @arin_web
+# Daha fazlası için takipte kal
+# - - Arin Bank - - 
 
 from getpass import getpass
 import os
