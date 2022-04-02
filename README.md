@@ -7,7 +7,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/arinweb) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/arin_web)
 
-Şifre: 0000
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
 
 Güncelleme
@@ -43,3 +42,5 @@ git clone https://github.com/arinweb/banka
 cd banka
 python banka.py
 ```
+
+Banka Şifresi: 0000
