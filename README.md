@@ -15,7 +15,7 @@
 pkg install git
 pkg install python
 ```
-- Projeyi depolamaya klonlar
+- Projeyi telefon hafızasına klonlar
 ```
 git clone https://github.com/arinweb/banka
 ```
