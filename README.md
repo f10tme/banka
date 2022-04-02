@@ -10,25 +10,25 @@
 
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
 
-- Gerekli paketleri indirir
+1) Gerekli paketleri indirir
 ```
 pkg install git
 pkg install python
 ```
-- Projeyi telefon hafızasına klonlar
+2) Projeyi telefon hafızasına klonlar
 ```
 git clone https://github.com/arinweb/banka
 ```
-- "banka" klasörüne girer
+3) "banka" klasörüne girer
 ```
 cd banka
 ```
-- Dosyayı çalıştırır
+4) Dosyayı çalıştırır
 ```
 python banka.py
 ```
 
-- <b>Tek Seferde Kopyala - Tüm Komutlar</b>
++ <b>Tek Seferde Kopyala - Tüm Komutları</b>
 ```
 pkg install git
 pkg install python
