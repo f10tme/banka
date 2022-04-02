@@ -10,33 +10,26 @@
 
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
 
-- Güncelleme
-```
-apt update
-apt upgrade
-```
-- Gerekli Paketleri İndir
+- Gerekli paketleri indirir
 ```
 pkg install git
 pkg install python
 ```
-- git ile Banka Projemi Depolamamıza İndirir
+- Projeyi depolamaya klonlar
 ```
 git clone https://github.com/arinweb/banka
 ```
-- Klasöre Girer
+- "banka" klasörüne girer
 ```
 cd banka
 ```
-- Dosyayı Çalıştırır
+- Dosyayı çalıştırır
 ```
 python banka.py
 ```
 
-- <b>Tek Seferde Kopyala</b>
+- <b>Tek Seferde Kopyala - Tüm Komutlar</b>
 ```
-apt update
-apt upgrade
 pkg install git
 pkg install python
 git clone https://github.com/arinweb/banka
