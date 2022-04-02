@@ -10,25 +10,27 @@
 Şifre: 0000
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
 
+Güncelleme
 ```
 apt update
 apt upgrade
 ```
+Gerekli Paketleri İndir
 ```
 pkg install git
 pkg install python
 ```
+git ile Banka Projemizi Depolamanıza İndirir
 ```
 git clone https://github.com/arinweb/banka
 ```
-
+Klasöre Girer Ve Dosyayı Çalıştırır
 ```
 cd banka
 python banka.py
 ```
 
-Direkt Kopyala
-
+Tek Seferde Kopyala
 ```
 apt update
 apt upgrade
