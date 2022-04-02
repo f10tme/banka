@@ -20,13 +20,16 @@ Gerekli Paketleri İndir
 pkg install git
 pkg install python
 ```
-git ile Banka Projemizi Depolamanıza İndirir
+git ile Banka Projemi Depolamamıza İndirir
 ```
 git clone https://github.com/arinweb/banka
 ```
-Klasöre Girer Ve Dosyayı Çalıştırır
+Klasöre Girer
 ```
 cd banka
+```
+Dosyayı Çalıştırır
+```
 python banka.py
 ```
 
