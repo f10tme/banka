@@ -162,8 +162,3 @@ while x == 1:
     exit();
   else:
     clear()
-
-
-
-
-
