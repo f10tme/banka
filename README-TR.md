@@ -38,3 +38,5 @@ python banka.py
 ```
 
 <b>Banka Şifresi:<i> 0000</i></b>
+
+[İngilizce - English ~ README ~](README.md)
