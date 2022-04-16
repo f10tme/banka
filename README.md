@@ -39,4 +39,4 @@ python banka.py
 
 <b>Bank Password:<i> 0000</i></b>
 
-[Türkçe Versiyon Readme - Turkish](README-TR.md)
+[Turkish - Türkçe ~ README ~](README-TR.md)
