@@ -1,34 +1,34 @@
-# Python Bankacılık
+# Python Banking
 ## Arin Web
 <img style="width:25%;" src="https://user-images.githubusercontent.com/60838684/161359736-666cacb3-b755-439c-8e8a-21a89c87392e.png"/>
 
 
-[Web Sitem](https://arinweb.epizy.com)
+[My website](https://arinweb.epizy.com)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/arinweb) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/arin_web)
 
 ![IMG_20220401_180320](https://user-images.githubusercontent.com/60838684/161291039-2d09fa90-d684-4eee-92c7-970dac6b3296.png)
 
-1) Gerekli paketleri indirir
+1) Downloads required packages
 ```
 pkg install git
 pkg install python
 ```
-2) Projeyi telefon hafızasına klonlar
+2) Clones the project to phone memory
 ```
 git clone https://github.com/arinweb/banka
 ```
-3) "banka" klasörüne girer
+3) enter the "banka"
 ```
 cd banka
 ```
-4) Dosyayı çalıştırır
+4) Runs the File
 ```
 python banka.py
 ```
 
-+ <b>Tek Seferde Kopyala - Tüm Komutları</b>
++ <b>Copy at Once - All Commands</b>
 ```
 pkg install git
 pkg install python
@@ -37,4 +37,6 @@ cd banka
 python banka.py
 ```
 
-<b>Banka Şifresi:<i> 0000</i></b>
+<b>Bank Password:<i> 0000</i></b>
+
+[Türkçe Versiyon Readme - Turkish](README-TR.md)
