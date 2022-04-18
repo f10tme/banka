@@ -1,5 +1,8 @@
 # Python Banking
 ## Arin Web
+
+[Turkish - Türkçe ~ README ~](README-TR.md)
+
 <img style="width:25%;" src="https://user-images.githubusercontent.com/60838684/161359736-666cacb3-b755-439c-8e8a-21a89c87392e.png"/>
 
 
@@ -38,5 +41,3 @@ python banka.py
 ```
 
 <b>Bank Password:<i> 0000</i></b>
-
-[Turkish - Türkçe ~ README ~](README-TR.md)
